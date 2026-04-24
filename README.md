@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🛡️ SYSTEM-VAULT | المركز الرئيسي
 
-<!--
-**anasgh1980-alt/anasgh1980-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00ffea&height=150&section=header&text=VAULT%20ACCESS%20GRANTED&fontSize=45" />
+</div>
 
-Here are some ideas to get you started:
+### 🔓 حالة النظام (System Status)
+- **المعرف:** `anasgh1980-alt`
+- **المهمة:** بناء مرجع تقني آمن للأكواد والبيانات.
+- **الحالة:** <img src="https://img.shields.io/badge/Operational-brightgreen?style=for-the-badge&logo=statuspage" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ الأدوات والقدرات (Tech Stack)
+| المجال | التقنيات المستخدمة |
+| :--- | :--- |
+| **التطوير** | `Python`, `Web Development`, `Git` |
+| **الأمن** | `Data Encryption`, `System Logic` |
+| **الإدارة** | `Resource Organization` |
+
+---
+
+### 📊 إحصائيات الخزنة (Live Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=anasgh1980-alt&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
+
+---
+
+> **قاعدة الخزنة:** "الأكواد هنا ليست مجرد نصوص، بل هي أصول رقمية محمية."
